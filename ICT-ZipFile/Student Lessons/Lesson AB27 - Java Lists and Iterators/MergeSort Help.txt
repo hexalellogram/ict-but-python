@@ -1,0 +1,27 @@
+/**
+   *  The linked list is returned in sorted order.
+   *  Sorted order has the smallest item first and the largest item
+   *  last. The ordering is determined by the order defined in the
+   *  Comparable class. The method uses the merge sort technique and
+   *  must be recursive.
+   *
+   * @param  listA  LinkedList to be sorted
+   * @return        LinkedList in sorted (nondecreasing) order
+   */
+  public LinkedList<Item> mergeSort(LinkedList <Item> listA)
+  {
+    LinkedList <Item> listB = new LinkedList <Item>();
+
+    if (listA == null){
+      return null;
+    }
+    // Don't sort an empty list or a list with one node
+    if (listA.size() <= 1){
+      return listA;
+    }
+
+    // Split the list in half.  If uneven then make left one larger.
+    split(listA, listB);
+
+    return merge(mergeSort(listA), mergeSort(listB));
+  }

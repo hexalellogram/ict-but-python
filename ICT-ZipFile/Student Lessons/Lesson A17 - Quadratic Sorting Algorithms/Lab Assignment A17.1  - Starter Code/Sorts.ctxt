@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sorts()
+comment1.params=list
+comment1.target=void\ bubbleSort(java.util.ArrayList)
+comment2.params=list
+comment2.target=void\ selectionSort(java.util.ArrayList)
+comment2.text=\r\n\ \ Description\ of\ the\ Method\r\n\r\n\ @param\ \ list\ \ reference\ to\ an\ array\ of\ integers\ to\ be\ sorted\r\n
+comment3.params=list
+comment3.target=void\ insertionSort(java.util.ArrayList)
+comment3.text=\r\n\ \ Description\ of\ the\ Method\r\n\r\n\ @param\ \ list\ \ reference\ to\ an\ array\ of\ integers\ to\ be\ sorted\r\n
+comment4.params=a\ first\ last
+comment4.target=void\ mergeSort(java.util.ArrayList,\ int,\ int)
+comment5.params=list\ first\ mid\ last
+comment5.target=void\ merge(java.util.ArrayList,\ int,\ int,\ int)
+comment6.params=list\ first\ last
+comment6.target=void\ quickSort(java.util.ArrayList,\ int,\ int)
+comment7.params=
+comment7.target=long\ getStepCount()
+comment7.text=\r\n\ \ Accessor\ method\ to\ return\ the\ current\ value\ of\ steps\r\n\r\n
+comment8.params=stepCount
+comment8.target=void\ setStepCount(long)
+comment8.text=\r\n\ \ Modifier\ method\ to\ set\ or\ reset\ the\ step\ count.\ Usually\ called\r\n\ \ prior\ to\ invocation\ of\ a\ sort\ method.\r\n\r\n\ @param\ \ stepCount\ \ \ value\ assigned\ to\ steps\r\n
+numComments=9

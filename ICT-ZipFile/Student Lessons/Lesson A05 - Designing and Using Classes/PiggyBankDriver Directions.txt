@@ -1,0 +1,47 @@
+PiggyBank Driver directions:
+
+1) Create a Piggy Bank object, passing 3 pennies, 4 nickels, 5 dimes,
+   and 6 quarters into the constructor.
+
+2) Print out the current number of pennies, nickels, dimes, and
+   quarters, and then how much $$$ you have in your bank
+   (you're calling 5 methods here).
+
+3) Add 2 pennies, 3 nickels, 4 dimes, and 5 quarters to your bank.
+
+4) Print out how many of each coin you added (these aren't method calls),
+   and then the current number of p, n, d, q, and $$$ in your bank.
+
+SOP("After adding 2 pennies, etc, we now have " + ???.getPennies() + " pennies " ....);
+5) Repeat 1-4 by calling your default constructor (except you won't be
+   passing any coins in here).  Copy-pasting here is ok.
+
+* Try to "beautify" your output by adding spaces to line things up
+
+Output:
+
+Initial piggy bank stats:
+
+	Quarters:  6
+	Dimes:	   5
+        Nickels:   4
+        Pennies:   3
+
+        Total:     $2.23
+
+
+After adding 5 quarters, 4 dimes, 3 nickels, and 2 pennies,
+
+
+Current piggy bank stats:
+
+	Quarters:  11
+	Dimes:	   9
+        Nickels:   7
+        Pennies:   5
+
+        Total:     $4.05
+
+
+Same for the default constructor
+	

@@ -1,0 +1,25 @@
+Inorder:   ABDFHJKLMNPQTW			(File B)
+Preorder:  QJHBADFKNLMPTW
+Postorder: AFDBHMLPNKJWTQ
+
+# of nodes: 14
+Height:	    6
+Width:	    9
+Leaves:	    5
+
+Level 0	    Q
+Level 1	    JT
+Level 2     HKW
+Level 3     BN
+Level 4	    ADLP
+Level 5	    FM
+
+Testing delete:
+	delete Q and verify the new tree is correct
+		  by calling print level (for all levels)
+                  New root is now T	
+
+Test isAncestor yourself (write out the tree)
+Test interchangeTree by calling printLevel and comparing that output
+    with the original output of printLevel
+	
