@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffb69761-9834-4a80-9b83-19424129ef7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ICT-03/Coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-04/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-04/CarDriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-04/Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-04/RectangleDriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-05/PBDriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICT-05/PiggyBank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Taxes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICT-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A05 - Designing and Using Classes/~$rksheet A5.1 - Intro to Classes.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A05 - Designing and Using Classes/~$rksheet A5.2 - Methods.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A06 - Libraries and APIs/~$b Assignment A6.1 - Taxes.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A06 - Libraries and APIs/~$b Assignment A6.2 - RegularPolygon.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A06 - Libraries and APIs/~$rksheet A6.2 - Static Review.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A06 - Libraries and APIs/~$sson A6 - Libraries and APIs.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A07 - Simple IO/~$rksheet A7.1 - Scanner Review.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A07 - Simple IO/~$rksheet A7.2 - printf Review.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A08 - Control Structures/~$b Assignment A8.2 - IRS.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A08 - Control Structures/~$rksheet A8.1 - if Statements.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A08 - Control Structures/~$rksheet A8.2 - switch Statements.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A08 - Control Structures/~$sson A8 - Control Structures.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A10 - Strings/~$b Assignment A10.2 - CarRental.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A10 - Strings/~$rksheet A10.1 - String Review.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A10 - Strings/~$rksheet A10.2 - Objects and Object References.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A12 - Iterations/~$b Assignment A12.4 - Grades.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A15 - ArrayList/~$b Assignment A15.2 - Permutations.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/SortStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/SortStep.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/SortStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/Sorts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/Sorts.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/Sorts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/SortsDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/SortsDriver.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/SortsDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/18-ICT/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Lab Assignment A18- Recursive MergeSort  THIS ONE!.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Lab Assignment A18.1 - Merge.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Lab Assignment A18.1 - Starter Code/MergeTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Lab Assignment A18.2 - Recursive MergeSort.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Lesson A18 - Merge and MergeSort.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Transparency A18.1 - MergeSort Example.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Transparency A18.2 - Merging Two Lists.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A18 - Merge and  MergeSort/Worksheet A18.1 - Non-recursive Merge and MergeSort.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A19 - Sequential and Binary Searches/~$b Assignment A19.1 - Store.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson A19 - Sequential and Binary Searches/~$b Assignment A19.2 - Search.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson AB30 - Binary Search Trees/~$ansparency AB30.1 - Building A Binary Tree.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson AB30 - Binary Search Trees/~$b Assignment AB30.1 - Binary Search Tree.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson AB30 - Binary Search Trees/~$b Assignment AB30.2 - Binary Search Tree continued.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson AB30 - Binary Search Trees/~$b Assignment AB30.3 - TreeStats.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson AB30 - Binary Search Trees/~$ndout AB30.1 - Deletion from a Binary Tree.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICT-ZipFile/Student Lessons/Lesson AB30 - Binary Search Trees/~$sson AB30 - Binary Search Trees.doc" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Taxes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Taxes.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
+    <option name="width" value="840" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ICT-06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ICT-06" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Taxes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICT-06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Taxes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Taxes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffb69761-9834-4a80-9b83-19424129ef7a" name="Default Changelist" comment="" />
+      <created>1559069354259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559069354259</updated>
+      <workItem from="1559069357566" duration="1054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="840" y="0" width="840" height="1010" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32915717" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ICT_06$Taxes.coverage" NAME="Taxes Coverage Results" MODIFIED="1559070413048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Taxes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

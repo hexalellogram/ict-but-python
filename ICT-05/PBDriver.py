@@ -1,0 +1,17 @@
+import PiggyBank as pb
+
+bank = pb.PiggyBank(1, 2, 3, 4)
+print("Current value " + str(bank.getvalue()))
+print("Quarters " + str(bank.getquarters()))
+print("Dimes " + str(bank.getdimes()))
+print("Nickels " + str(bank.getnickels()))
+print("Pennies " + str(bank.getpennies()))
+bank.addquarters(2)
+bank.adddimes(2)
+bank.addnickels(2)
+bank.addpennies(2)
+print("New value " + str(bank.getvalue()))
+print("New Quarters " + str(bank.getquarters()))
+print("New Dimes " + str(bank.getdimes()))
+print("New Nickels " + str(bank.getnickels()))
+print("New Pennies " + str(bank.getpennies()))
