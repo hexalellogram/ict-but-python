@@ -29,9 +29,9 @@ class Taxes:
 
 tax = Taxes(12.35, 30.0)
 print("Hours Worked: " + str(tax.getHours()))
-print("Hourly Rate: " + str(tax.getPayRate()))
-print("Gross Pay: " + str(tax.calcGross()))
-print("Federal Tax 915.4%): " + str(tax.calcFederal()))
+print("Hourly Rate: " + str(tax.getPayRate()) + "\n")
+print("Gross Pay: " + str(tax.calcGross()) + "\n")
+print("Federal Tax (15.4%): " + str(tax.calcFederal()))
 print("FICA Tax (7.75%): " + str(tax.calcFICA()))
-print("State Tax (4.0%): " + str(tax.calcState()))
+print("State Tax (4.0%): " + str(tax.calcState()) + "\n")
 print("Net Pay: " + str(tax.calcGross() - tax.calcTotalTax()))
