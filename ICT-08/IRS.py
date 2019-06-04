@@ -4,7 +4,7 @@ class IRS:
         self.income = float(input("Enter taxable income: $"))
 
     def calc_tax(self):
-        if self.status == 1:
+        if self.status == str(1):
             return self.calc_single()
         else:
             return self.calc_married()
@@ -13,7 +13,7 @@ class IRS:
         if self.income < 27050:
             return 0.15 * self.income
         elif self.income < 65550:
-            return float(4057.50) + 0.275 * (self.income - 27050)
+            return float(float(4057.50) + 0.275 * (self.income - 27050))
         elif self.income < 136750:
             return float(14645) + 0.305 * (self.income - 65550)
         elif self.income < 297350:
@@ -36,4 +36,4 @@ class IRS:
 
 taxes = IRS()
 fed = taxes.calc_tax()
-print("Your Federal Tax = " + str(fed))
+print("Your Federal Tax = $" + "{:.2f}".format(fed))
