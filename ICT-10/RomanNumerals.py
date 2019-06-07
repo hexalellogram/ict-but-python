@@ -21,9 +21,9 @@ class RomanNumerals:
         print("Five Hundreds: " + str(five_hundreds))
         print("Hundreds: " + str(hundreds))
 
-        result += cls.__add_letters__(thousands, "M", "C")
-        result += cls.__add_letters__(five_hundreds, "D", "C")
-        result += cls.__add_letters__(hundreds, "C", "X")
+        result += cls.__add_letters__(thousands, "M", "C", "")
+        result += cls.__add_letters__(five_hundreds, "D", "C", "")
+        result += cls.__add_letters__(hundreds, "C", "X", "")
         result += cls.__add_letters__(fifties, "L", "")
         result += cls.__add_letters__(tens, "X", "L")
         result += cls.__add_letters__(fives, "V", "X", "I")
@@ -31,16 +31,16 @@ class RomanNumerals:
         return result
 
     @staticmethod
-    def __add_letters__(num, letter, larger, smaller):
+    def __add_letters__(num, letter, larger, larger2):
         num = int(num)
         letter = str(letter)
         larger = str(larger)
-        smaller = str(smaller)
+        larger2 = str(larger2)
         result = ""
         if num == 4 and letter in 'IXC':
             result = letter + larger
         elif num == 9 and letter in 'IXC':
-            result = smaller + larger
+            result = letter + larger2
         else:
             while num > 0:
                 num = num - 1
